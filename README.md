@@ -1,1 +1,1 @@
-# arch_KDE_install
+# Минимальная установка Arch Linux с рабочим столом KDE
